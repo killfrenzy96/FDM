@@ -1,0 +1,37 @@
+Name=The Royal Escape
+Author=Carnage
+MinLevel=5
+JoinCost=1500
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz
+WaitLocation=1116.8107,-2055.4927,73.9906
+
+RunTime=180
+WinBaseXP=85000
+WinBaseCash=70000
+
+; Vehicle Model to race with. Other models: 0=No vehicle, -1=Any vehicle
+Vehicle=522
+
+; Checkpoints
+; Type=0 is a normal checkpoint
+; Type=1 is an air checkpoint
+; Format: CP#=x,y,z,type,size
+CP=1110.6476,-2007.6847,74.0020,,2.0
+CP=1191.8499,-2005.0580,68.5803,,4.0
+CP=1215.7319,-2032.5490,66.8743,,2.0
+CP=1219.5033,-2067.5552,64.6611,,2.0
+CP=1225.1650,-2025.1819,64.3391,,2.0
+CP=1227.9535,-2009.1089,62.5751,,2.0
+CP=1232.5476,-2067.1353,60.4696,,2.0
+CP=1237.5436,-2006.9686,59.4261,,2.0
+CP=1333.7495,-2055.3347,56.8642
+CP=1391.2648,-1969.7037,37.0351
+CP=1251.6151,-1920.5656,30.6924
+CP=1426.1798,-1900.0472,13.3150
+CP=1319.3708,-1853.1705,12.9458
+CP=1182.3975,-1796.2214,12.9589
+CP=1182.6299,-1852.7109,12.9616
+CP=1177.0496,-1685.0984,20.5747
+CP=1173.4332,-1613.9362,21.7520,,16.0

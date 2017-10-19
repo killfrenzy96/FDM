@@ -1,0 +1,46 @@
+; Converted Fri, 07 May 10 08:30:59 -0400
+
+; The location of the waiting checkpoint. WaitLocation=x,y,z,interior
+WaitLocation=-2267.452393,-103.195915,34.955688,0
+MinLevel=0
+JoinCost=1337
+WinBaseXP=300000
+WinBaseCash=300000
+
+Name=Spider Walk
+Author=bAnG and Venom
+Description=Up the Wall.
+RunTime=1000
+Weather=0
+Time=9:0
+
+; Vehicle Model to race with. Other models: 0=No vehicle, -1=Any vehicle
+Vehicle=522
+
+; If there are no spawn points, races will just be given their vehicle at the checkpoint
+; vehicletype param is optional.
+; Format: SPAWN=x,y,z,rotz,vehicletype
+SPAWN=-2267.452393,-103.195915,34.955688,271
+SPAWN=-2267.390381,-101.441093,34.98069,271
+SPAWN=-2267.605713,-104.173851,34.98069,271
+SPAWN=-2267.265869,-100.452591,34.98069,271
+SPAWN=-2267.619873,-105.2379,34.98069,271
+SPAWN=-2267.693115,-106.216537,34.98069,271
+SPAWN=-2267.175293,-99.410706,34.98069,271
+SPAWN=-2267.330811,-102.241264,34.98069,271
+
+; Type = 0 is a normal checkpoint. Type = 1 is an air checkpoint.
+; The params type,size,vehicletype,vehiclehp and gravity are optional.
+; Format: CP=x,y,z,type,size,vehicletype,vehiclehp,gravity
+CP=-2247.654053,-102.674438,34.171875,0,1.52
+CP=-2214.337646,-103.019127,34.320313,0,1.52
+CP=-2264.998535,-102.769737,34.179672,0,1.52
+CP=-2237.143555,-102.777222,34.320313,0,1.52
+CP=-2235.7771,-117.940979,46.287392,0,1.52
+CP=-2217.039063,-189.00502,55.820179,1,4
+
+; Format: OBJECT=modelid,x,y,z,rotx,roty,rotz
+OBJECT=1655,-2235.147461,-143.968445,47.112476,0,0,180.000041454
+OBJECT=1655,-2221.987061,-176.623596,49.983845,0,0,202.500086406
+OBJECT=1318,-2240.697021,-103.299538,37.068924,179.622551375,0,0
+

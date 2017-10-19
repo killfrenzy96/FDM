@@ -1,0 +1,42 @@
+; Converted Fri, 25 Jun 10 00:40:14 -0400
+
+; The location of the waiting checkpoint. WaitLocation=x,y,z,interior
+WaitLocation=1765.6608,2724.0576,10.8359
+MinLevel=0
+JoinCost=8008
+WinMultiplierXP=1000
+WinMultiplierCash=2000
+
+Name=Pool Derby
+Author=jzoa
+RunTime=1000
+Weather=0
+Time=7:0
+
+; Vehicle Model to race with. Other models: 0=No vehicle, -1=Any vehicle
+Vehicle=539
+
+; Boundaries, the furthest a player can get away from a point.
+; Bounds=centrex,centrey,centrez,radius
+Bounds=2533.80684656,1561.81808611,9.33976069061,2547.185059
+
+; If there are no spawn points, races will just be given their vehicle at the checkpoint
+; vehicletype param is optional.
+; Format: SPAWN=x,y,z,rotz,vehicletype
+SPAWN=2547.185059,1555.450317,9.35858,360
+SPAWN=2544.020264,1555.500732,9.35858,360
+SPAWN=2540.826904,1555.490112,9.35858,359
+SPAWN=2516.231934,1555.297485,9.35858,359
+SPAWN=2519.252197,1555.377075,9.35858,359
+SPAWN=2522.247803,1555.328125,9.35858,359
+SPAWN=2516.763916,1581.142212,9.283581,177
+SPAWN=2519.78418,1581.049438,9.283581,177
+SPAWN=2522.807129,1581.017212,9.283581,177
+SPAWN=2539.993652,1581.137573,9.283581,178
+SPAWN=2542.634277,1581.135742,9.283581,178
+SPAWN=2545.438965,1581.065674,9.283581,178
+SPAWN=2548.293945,1580.97998,9.283581,178
+SPAWN=2525.835449,1581.038452,9.283581,178
+SPAWN=2525.022705,1555.350952,9.35858,359
+SPAWN=2537.553467,1555.540039,9.35858,360
+

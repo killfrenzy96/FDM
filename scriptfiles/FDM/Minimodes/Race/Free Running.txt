@@ -1,0 +1,28 @@
+Name=Free Running
+Author=KillFrenzy
+MinLevel=3
+JoinCost=800
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz
+WaitLocation=-2577.7654,885.8442,64.9756
+
+RunTime=240
+WinBaseXP=100000
+WinBaseCash=30000
+
+; Vehicle Model to race with. Other models: 0=No vehicle, -1=Any vehicle
+Vehicle=0
+
+; Checkpoints
+; Type=0 is a normal checkpoint
+; Type=1 is an air checkpoint
+; Format: CP#=x,y,z,type,size
+CP=-2577.4985,879.6014,68.0215,,1.0
+CP=-2573.6406,859.7301,62.5891,,1.0
+CP=-2569.2366,826.0522,57.1546,,1.0
+CP=-2589.3445,823.3399,57.1553,,1.0
+CP=-2590.4656,892.6270,73.5000,,1.0
+CP=-2543.3081,892.5782,73.5938,,1.0
+CP=-2543.1824,823.1903,58.5000,,1.0
+CP=-2568.3374,823.4897,57.1546,,1.0

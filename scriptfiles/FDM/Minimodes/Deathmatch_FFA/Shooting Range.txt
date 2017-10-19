@@ -1,0 +1,34 @@
+
+Name=Shooting Range
+Author=KillFrenzy
+MinLevel=5
+JoinCost=5000
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz
+WaitLocation=801.2891,1674.6696,5.2813
+
+RunTime=180
+WinBaseXP=160000
+WinBaseCash=150000
+KillXP=1000
+
+; Boundaries, the furthest a player can get away from a point.
+; Bounds=centrex,centrey,centrez,radius
+Bounds=801.6933,1640.8292,5.2772,45.0
+
+; Weapon spawns information.
+; W#=weaponid,ammo
+WPN=24,250
+WPN=4,1
+
+; Spawn locations within the deathmatch.
+; Spawn#=spawnx,spawny,spawnz,spawnrot
+SPAWN=784.6809,1608.7012,6.3057,316.6593
+SPAWN=784.8671,1633.6475,6.5859,276.1762
+SPAWN=784.7857,1656.5601,5.9094,272.9802
+SPAWN=817.8688,1654.5958,6.1472,97.9087
+SPAWN=818.7696,1635.9513,6.3643,91.8717
+SPAWN=818.1739,1608.3397,6.3985,43.2210
+SPAWN=802.4742,1607.3911,6.3051,359.1868
+SPAWN=800.9656,1670.5005,5.2813,180.5641

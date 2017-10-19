@@ -1,0 +1,28 @@
+Name=Spooky Tunnel
+Author=Carnage
+MinLevel=6
+JoinCost=3500
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz
+WaitLocation=-357.9883,1182.9587,19.2246
+
+RunTime=60
+WinBaseXP=35000
+WinBaseCash=50000
+
+; Vehicle Model to race with. Other models: 0=No vehicle, -1=Any vehicle
+Vehicle=471
+VehicleComponents=1010
+
+; Checkpoints
+; Type=0 is a normal checkpoint
+; Type=1 is an air checkpoint
+; Format: CP#=x,y,z,type,size
+CP=-406.7798,1214.6206,3.9680
+CP=-395.0266,1261.1888,6.6129,1,2.0
+CP=-414.7713,1350.8613,12.4181,1,2.0
+CP=-441.6788,1440.0626,20.6593,1,2.0
+CP=-473.6180,1546.7651,34.2944
+CP=-497.1375,1586.7715,34.3924,,2.0
+CP=-520.0748,1633.4285,3.7330,,16.0

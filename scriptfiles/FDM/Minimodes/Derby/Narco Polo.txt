@@ -1,0 +1,38 @@
+Name=Narco Polo
+MinLevel=0
+JoinCost=1500
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz
+WaitLocation=-1243.5856,2710.6860,49.3922
+
+RunTime=500
+WinMultiplierXP=500
+WinMultiplierCash=2000
+
+; Vehicle Model to start with. Other models: -1=Any vehicle
+Vehicle=430
+;VehicleComponents=1010
+
+; Boundaries, the furthest a player can get away from a point.
+; Bounds=centrex,centrey,centrez,radius
+Bounds=-1147.6447,2757.7002,40.2579,100.0
+
+; Spawn locations within the derby.
+; Spawn#=spawnx,spawny,spawnz,spawnrot
+Spawn0=-1102.4893,2801.3118,40.3408,120.9742
+Spawn1=-1222.6102,2729.9121,40.3568,291.3284
+Spawn2=-1177.6138,2798.7278,40.3905,204.8485
+Spawn3=-1126.5420,2725.1794,40.3902,25.0287
+Spawn4=-1074.8827,2749.0632,40.3383,86.2018
+Spawn5=-1067.4521,2733.2925,40.3352,61.6516
+Spawn6=-1224.0192,2772.3213,40.3811,256.4008
+Spawn7=-1191.8820,2721.4031,40.3245,340.6884
+Spawn8=-1109.0376,2718.2041,40.3901,41.1822
+Spawn9=-1097.7345,2779.9763,40.4130,109.3229
+Spawn10=-1142.1598,2713.2532,40.3645,355.6508
+Spawn11=-1195.8904,2801.3291,40.2804,193.0153
+Spawn12=-1185.0979,2719.3147,40.3879,329.1911
+Spawn13=-1129.9633,2806.8101,40.3898,169.9532
+Spawn14=-1075.2124,2731.3831,40.3211,63.7279
+Spawn15=-1215.1145,2745.6711,40.3177,265.2831

@@ -1,0 +1,53 @@
+
+Name=Leap Of Faith
+Author=Truth
+MinLevel=0
+JoinCost=800
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz
+WaitLocation=1443.0898,-1066.6664,213.1099
+
+RunTime=120
+WinBaseXP=50000
+WinBaseCash=50000
+Weather=0
+
+; Vehicle Model to race with. Other models: 0=No vehicle, -1=Any vehicle
+Vehicle=461
+
+; Checkpoints
+; Type=0 is a normal checkpoint
+; Type=1 is an air checkpoint
+; The params type and size are optional
+; Format: CP=x,y,z,type,size
+CP=1469.457886,-1068.941772,212.382813,0,
+CP=1508.638062,-1078.302246,180.203125,0,
+CP=1514.780762,-1130.286499,134.828125,0,
+CP=1482.211060,-1187.751221,107.351402,0,
+CP=1480.647949,-1250.374512,112.779526,0,
+CP=1484.629272,-1283.199585,112.779526,0,
+CP=1414.365234,-1286.460327,32.521378,0,
+
+; Spawn Points
+; If there are no spawn points, races will just be given their vehicle at the checkpoint
+; Format: SPAWN=x,y,z,rotz
+SPAWN=1434.201782,-1067.178955,213.057312,268.0
+SPAWN=1435.169556,-1068.640503,213.057312,268.0
+SPAWN=1435.986938,-1069.969116,213.057312,268.0
+SPAWN=1436.922241,-1070.939819,213.057312,268.0
+SPAWN=1434.764526,-1064.039185,213.057312,268.0
+SPAWN=1435.500977,-1062.299805,213.057312,268.0
+SPAWN=1436.354370,-1061.166626,213.057312,268.0
+SPAWN=1438.258179,-1059.738403,213.057312,268.0
+
+; Objects
+; The last param (viewdistance) is optional
+; Format: OBJECT=modelid,x,y,z,rotx,roty,rotz,viewdistance
+OBJECT=1634,1481.218628,-1220.646606,108.622765,0.0,0.0,188.11265
+
+; Pickups
+; Format:
+;	PICKUPREPAIR=x,y,z
+;	PICKUPNITRO=x,y,z
+;	PICKUPVEHICLE=vehicletype,x,y,z

@@ -1,0 +1,52 @@
+; Converted Sun, 11 Apr 10 18:08:36 +1000
+
+; The location of the waiting checkpoint. WaitLocation=x,y,z,interior
+WaitLocation=-1907.9459,346.5297,44.8076
+MinLevel=1
+JoinCost=4000
+WinBaseXP=500000
+WinBaseCash=400000
+
+Name=Buzzkill
+Author=SgtMullet
+Description=:)
+RunTime=1200
+Weather=
+Time=8:0
+
+; Vehicle Model to race with. Other models: 0=No vehicle, -1=Any vehicle
+Vehicle=522
+
+; If there are no spawn points, races will just be given their vehicle at the checkpoint
+; vehicletype param is optional.
+; Format: SPAWN=x,y,z,rotz,vehicletype
+SPAWN=-1994.525757,339.782013,34.676003,271
+SPAWN=-1994.595215,343.295959,34.676003,271
+SPAWN=-1994.646484,341.478943,34.676003,271
+SPAWN=-1994.456421,345.371765,34.676003,271
+SPAWN=-1994.597412,347.192993,34.676003,271
+SPAWN=-1994.644775,349.03241,34.676003,271
+SPAWN=-1994.670898,350.936157,34.676003,271
+SPAWN=-1994.571899,353.085999,34.676003,271
+
+; Type = 0 is a normal checkpoint. Type = 1 is an air checkpoint.
+; The params type,size,vehicletype,vehiclehp and gravity are optional.
+; Format: CP=x,y,z,type,size,vehicletype,vehiclehp,gravity
+CP=-1925.33374,343.002655,30.346409,0,8
+CP=-1806.546509,471.966644,22.132252,0,8
+CP=-1688.715698,539.277649,37.249954,0,8
+CP=-1674.931396,560.295288,39.195698,0,3.6
+CP=-1624.013428,614.0755,61.133183,1,8
+CP=-1566.706299,674.670288,111.041206,1,8
+CP=-1543.493774,698.738098,142.473434,1,8
+CP=-1518.527466,676.694275,142.473434,1,8
+CP=-1511.124023,684.958862,130.87001,1,8
+CP=-1399.191772,803.367676,53.103466,1,8
+CP=-1301.268677,906.645203,86.915436,1,8
+CP=-1255.89624,953.847656,142.473434,1,8
+CP=-1278.947754,977.130737,142.473434,1,8
+CP=-1240.342651,1018.48877,92.677963,1,8
+CP=-1214.719971,1045.381226,70.817177,1,8
+CP=-1147.981567,1115.92981,43.392742,1,8
+CP=-1088.2677,1164.501221,37.324196,0,8
+

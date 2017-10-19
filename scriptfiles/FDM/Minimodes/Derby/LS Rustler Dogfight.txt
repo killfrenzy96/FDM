@@ -1,0 +1,38 @@
+Name=LS Rustler Dogfight
+Author=KillFrenzy
+MinLevel=5
+JoinCost=2500
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz
+WaitLocation=1980.7429,-2185.1013,13.2740
+
+RunTime=500
+WinMultiplierXP=1200
+WinMultiplierCash=2000
+
+; Vehicle Model to start with. Other models: -1=Any vehicle
+Vehicle=476
+
+; Boundaries, the furthest a player can get away from a point.
+; Bounds=centrex,centrey,centrez,radius
+Bounds=1742.2925,-2511.0598,13.1031,1000.0
+
+; Spawn locations within the derby.
+; Spawn#=spawnx,spawny,spawnz,spawnrot
+SPAWN=2073.0227,-2395.2825,13.2740,178.5688
+SPAWN=2124.7927,-2586.8523,13.2740,64.1683
+SPAWN=2042.8344,-2622.9448,13.2740,54.5021
+SPAWN=1958.3159,-2625.8728,13.2740,55.7239
+SPAWN=1858.7968,-2626.1912,13.2740,46.6899
+SPAWN=1726.0812,-2631.3535,13.2739,28.4101
+SPAWN=1621.0635,-2627.6409,13.2740,28.6194
+SPAWN=1528.0811,-2642.7788,13.2740,4.4181
+SPAWN=1456.4908,-2637.6831,13.2739,1.2660
+SPAWN=1421.2959,-2461.8386,13.2817,244.1577
+SPAWN=1622.9451,-2453.7209,13.2818,226.5332
+SPAWN=1750.3253,-2449.3481,13.2817,225.3752
+SPAWN=1856.8687,-2369.5261,13.2817,254.6357
+SPAWN=1867.3599,-2289.0957,13.2740,278.2745
+SPAWN=2024.2544,-2421.5745,13.1236,153.6292
+SPAWN=1922.0071,-2257.5190,13.1170,180.9379

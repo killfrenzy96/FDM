@@ -1,0 +1,45 @@
+; Converted Sun, 11 Apr 10 12:55:27 +1000
+
+; The location of the waiting checkpoint. WaitLocation=x,y,z,interior
+WaitLocation=-2065.256592,-2549.520508,30.981947
+MinLevel=0
+JoinCost=4000
+WinBaseXP=1500000
+WinBaseCash=1500000
+
+Name=Phoenixs DAKAR Rally
+Author=Phoenix
+Description= Hydras can be found
+RunTime=900
+Weather= 10
+Time=7:0
+
+; Vehicle Model to race with. Other models: 0=No vehicle, -1=Any vehicle
+Vehicle=495
+
+; If there are no spawn points, races will just be given their vehicle at the checkpoint
+; vehicletype param is optional.
+; Format: SPAWN=x,y,z,rotz,vehicletype
+SPAWN=-2065.256592,-2549.520508,30.981947,44
+SPAWN=-2048.700684,-2532.647705,30.981949,44
+SPAWN=-2082.539551,-2566.833496,31.185074,44
+SPAWN=-2043.72937,-2538.530518,31.185074,44
+SPAWN=-2059.189453,-2554.645508,30.981951,44
+SPAWN=-2076.107422,-2572.263428,31.185074,44
+SPAWN=-2031.395752,-2505.157471,32.501785,44
+SPAWN=-2023.307007,-2510.971436,33.032967,44
+
+; Type = 0 is a normal checkpoint. Type = 1 is an air checkpoint.
+; The params type,size,vehicletype,vehiclehp and gravity are optional.
+; Format: CP=x,y,z,type,size,vehicletype,vehiclehp,gravity
+CP=-2315.704346,198.826843,34.378418,0,4.4
+CP=-308.745789,1530.783936,74.359375,0,8
+CP=-131.092773,-363.829163,0.429688,0,8
+CP=14.638123,-2647.876465,39.271248,0,8
+
+; Format:
+; 	PICKUPREPAIR=x,y,z
+; 	PICKUPNITRO=x,y,z
+; 	PICKUPVEHICLE=vehicletype,x,y,z
+PICKUPVEHICLE=520,153.547302,-1966.8125,4.273436
+PICKUPVEHICLE=520,-2241.809814,-1733.548706,479.763672

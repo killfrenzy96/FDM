@@ -1,0 +1,60 @@
+
+Name=Wicked's Dakar Rally
+Author=Wicked_ice
+Description=Find the fastest way
+MinLevel=10
+JoinCost=23000
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz
+WaitLocation=838.1106,899.1151,13.3516
+
+RunTime=900
+WinBaseXP=1000000
+WinBaseCash=1200000
+Weather=0
+
+; Vehicle Model to race with. Other models: 0=No vehicle, -1=Any vehicle
+Vehicle=495
+
+; Checkpoints
+; Type=0 is a normal checkpoint
+; Type=1 is an air checkpoint
+; The params type and size are optional
+; Format: CP=x,y,z,type,size
+CP=631.601318,868.126465,-44.710983,0,
+CP=780.849670,2885.717041,5.430943,0,
+CP=-857.806091,1875.817261,57.801453,0,
+CP=-1374.416870,864.571899,44.565514,0,
+CP=-2636.983643,-1098.816406,71.054970,0,
+CP=-2712.154541,-1928.440796,80.863350,0,
+CP=-2629.510986,-2164.946289,67.458755,0,
+CP=-2755.491211,-1913.380737,111.083168,0,
+CP=-2802.923828,-1776.551880,138.028427,0,
+CP=-2589.035156,-1273.838501,223.683914,0,
+CP=-2338.915771,-1631.916016,481.103516,0,
+CP=-1736.441650,-1183.253296,52.154526,0,
+CP=-1546.544434,-926.404480,181.006714,0,
+
+; Spawn Points
+; If there are no spawn points, races will just be given their vehicle at the checkpoint
+; Format: SPAWN=x,y,z,rotz
+SPAWN=615.589111,843.791687,-42.476177,313.0
+SPAWN=612.706299,846.911499,-42.537277,313.0
+SPAWN=610.118591,849.459839,-42.547218,313.0
+SPAWN=607.214661,852.377319,-42.491562,313.0
+SPAWN=604.230957,855.231201,-42.450203,313.0
+SPAWN=608.041809,842.170715,-42.672001,313.0
+SPAWN=605.481812,845.106079,-42.678478,313.0
+SPAWN=602.330078,848.212646,-42.619537,313.0
+SPAWN=601.262024,840.880371,-42.804375,313.0
+
+; Objects
+; The last param (viewdistance) is optional
+; Format: OBJECT=modelid,x,y,z,rotx,roty,rotz,viewdistance
+
+; Pickups
+; Format:
+;	PICKUPREPAIR=x,y,z
+;	PICKUPNITRO=x,y,z
+;	PICKUPVEHICLE=vehicletype,x,y,z

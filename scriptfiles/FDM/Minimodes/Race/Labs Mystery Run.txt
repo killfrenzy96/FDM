@@ -1,0 +1,39 @@
+Name=Lab's Mystery Run
+Author=Labrik
+MinLevel=0
+JoinCost=2000
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz
+WaitLocation=988.1019,-1886.7813,10.3954
+
+RunTime=500
+WinBaseXP=200000
+WinBaseCash=100000
+
+; Vehicle Model to race with. Other models: 0=No vehicle, -1=Any vehicle
+Vehicle=568
+
+; Checkpoints
+; Type=0 is a normal checkpoint
+; Type=1 is an air checkpoint
+; Format: CP#=x,y,z,type,size
+CP=666.5438,-1856.3602,5.2940
+CP=379.5614,-1885.7869,1.8025
+CP=212.9164,-1837.5132,3.4814
+CP=118.6135,-1673.4532,9.5853
+CP=38.1031,-1530.3799,5.2624
+CP=-144.9423,-1628.6917,3.2126
+CP=-359.6801,-2162.8477,43.6986
+CP=-684.7929,-2266.4539,16.4693
+CP=-834.9966,-2438.7290,66.9142
+CP=-958.5467,-2310.2156,57.6800
+CP=-976.5717,-2158.4155,34.7908
+CP=-1129.1572,-2254.9861,34.2752
+CP=-1272.0579,-2258.7031,22.6959
+CP=-1575.0310,-2152.7349,13.6358
+CP=-1853.9382,-2086.9480,59.1688
+CP=-1773.0374,-1912.5281,95.5194
+CP=-1556.7728,-1878.1803,79.8461
+CP=-1757.6575,-1682.1327,35.0640
+CP=-1817.4792,-1609.8104,23.0156

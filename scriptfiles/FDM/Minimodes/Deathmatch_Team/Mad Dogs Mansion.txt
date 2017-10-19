@@ -1,0 +1,45 @@
+
+Name=Mad Dog's Mansion
+Author=KillFrenzy
+MinLevel=3
+JoinCost=5000
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz,waitinterior
+WaitLocation=1291.1729,-788.3026,96.4609
+
+Interior=5
+TeamCount=2
+RunTime=300
+WinXP=180000
+WinCash=200000
+KillXP=1500
+
+; Boundaries, the furthest a player can get away from a point.
+; Bounds=centrex,centrey,centrez,radius
+Bounds=1250.6646,-810.6511,1084.0078,200.0
+
+; Weapon spawns information.
+; W#=weaponid,ammo
+WPN=4,1
+WPN=23,100
+WPN=27,150
+WPN=31,500
+
+; Spawn locations within the deathmatch.
+; Spawn#=team,spawnx,spawny,spawnz,spawnrot
+SPAWN=0,1289.2667,-780.6802,1084.0078,62.7312
+SPAWN=0,1289.2574,-768.9228,1084.0078,89.7015
+SPAWN=0,1281.5475,-768.9290,1084.0078,90.6415
+SPAWN=0,1273.7178,-768.9155,1084.0078,94.7149
+SPAWN=0,1273.1653,-781.2299,1084.0078,22.6709
+SPAWN=0,1281.4916,-780.9394,1084.0078,48.9911
+SPAWN=1,1288.8787,-835.1302,1085.6328,90.0382
+SPAWN=1,1288.6731,-830.8708,1085.6403,99.7516
+SPAWN=1,1280.6560,-823.4593,1085.6328,149.8620
+SPAWN=1,1276.0529,-823.4672,1085.6328,195.9225
+SPAWN=1,1270.9927,-828.2744,1085.6328,145.1620
+SPAWN=1,1284.4930,-838.8260,1085.6328,88.1349
+SPAWN=1,1275.8884,-838.8375,1085.6328,90.3282
+SPAWN=1,1282.6530,-837.2594,1089.9375,90.6181
+SPAWN=1,1277.5105,-825.7198,1089.9375,132.2919

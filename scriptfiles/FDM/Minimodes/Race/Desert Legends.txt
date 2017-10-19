@@ -1,0 +1,40 @@
+Name=Desert Legends
+Author=Legendary
+MinLevel=7
+JoinCost=4500
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz
+WaitLocation=834.0796,705.7677,11.3674
+
+RunTime=240
+WinBaseXP=130000
+WinBaseCash=100000
+
+; Vehicle Model to race with. Other models: 0=No vehicle, -1=Any vehicle
+Vehicle=495
+
+; Checkpoints
+; Type=0 is a normal checkpoint
+; Type=1 is an air checkpoint
+; Format: CP#=x,y,z,type,size
+CP=320.9083,811.4799,12.5295
+CP=228.8327,966.5764,28.0826
+CP=367.2389,998.6976,30.0670
+CP=336.9892,826.8356,18.8138
+CP=532.2712,732.7291,12.6836
+CP=654.8716,657.3975,7.2199
+CP=1155.1362,847.5017,10.6617
+CP=1187.9667,1164.6431,8.4847
+CP=999.5881,1107.2649,10.7162
+CP=906.6663,984.3056,10.7162
+CP=807.9965,841.2456,9.4669
+CP=629.4442,866.5280,-43.0651
+CP=533.9467,864.2208,-42.2472
+CP=521.3157,946.4404,-24.6395
+CP=651.3117,970.3653,-17.3064
+CP=776.1553,865.6772,1.1801
+CP=812.0488,842.7751,9.9126
+CP=910.5438,993.7526,10.7160
+CP=802.8186,1153.2250,28.9001
+CP=495.3438,1125.8213,13.5900

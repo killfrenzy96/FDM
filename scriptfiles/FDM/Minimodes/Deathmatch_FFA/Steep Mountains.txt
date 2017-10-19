@@ -1,0 +1,39 @@
+
+Name=Steep Mountains
+Author=KillFrenzy
+MinLevel=8
+JoinCost=2500
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz
+WaitLocation=-1410.2858,2589.0491,55.8359
+
+RunTime=180
+WinBaseXP=180000
+WinBaseCash=150000
+KillXP=1500
+
+; Boundaries, the furthest a player can get away from a point.
+; Bounds=centrex,centrey,centrez,radius
+Bounds=-1304.3778,2520.7334,87.3245,50.0
+
+; Weapon spawns information.
+; W#=weaponid,ammo
+WPN=25,250
+WPN=30,750
+
+; Spawn locations within the deathmatch.
+; Spawn#=spawnx,spawny,spawnz,spawnrot
+SPAWN=-1322.5026,2497.3835,87.0469,259.7000
+SPAWN=-1311.5186,2512.1782,87.0420,353.4502
+SPAWN=-1290.8575,2513.5374,87.0422,359.8423
+SPAWN=-1286.6510,2515.2500,87.1087,1.9730
+SPAWN=-1299.6171,2527.9338,87.6078,175.9790
+SPAWN=-1303.9441,2526.5913,87.5550,176.3341
+SPAWN=-1316.9626,2527.8254,87.6035,180.5955
+SPAWN=-1324.7933,2533.8921,87.6110,179.5301
+SPAWN=-1319.3280,2541.7683,87.5917,178.8199
+SPAWN=-1314.8998,2543.4399,87.7422,175.9789
+SPAWN=-1298.5806,2548.3962,87.5428,177.3993
+SPAWN=-1303.3966,2541.9861,93.3047,177.0440
+SPAWN=-1321.3970,2511.2683,92.5406,359.2179

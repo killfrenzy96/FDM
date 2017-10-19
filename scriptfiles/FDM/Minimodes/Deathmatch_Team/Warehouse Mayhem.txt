@@ -1,0 +1,52 @@
+
+Name=Warehouse Mayhem
+Author=Adrenaline/KillFrenzy
+MinLevel=2
+JoinCost=1500
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz
+WaitLocation=2246.6580,-2241.2134,13.5469
+
+TeamCount=2
+RunTime=300
+WinXP=150000
+WinCash=100000
+KillXP=1000
+
+; Boundaries, the furthest a player can get away from a point.
+; Bounds=centrex,centrey,centrez,radius
+; Bounds=2242.2410,-2276.7014,13.5545,60.0
+
+BoundPolyPoint=2254.2100,-2243.3269
+BoundPolyPoint=2258.3999,-2238.7903
+BoundPolyPoint=2276.0652,-2256.4609
+BoundPolyPoint=2271.5142,-2260.6145
+BoundPolyPoint=2272.9038,-2264.7854
+BoundPolyPoint=2194.2761,-2344.1897
+BoundPolyPoint=2175.4473,-2326.1501
+BoundPolyPoint=2184.7827,-2309.1260
+BoundPolyPoint=2208.4509,-2285.6387
+BoundPolyPoint=2210.7080,-2284.4927
+BoundPolyPoint=2251.9578,-2243.8411
+
+; Weapon spawns information.
+; W#=weaponid,ammo
+WPN=16,1
+WPN=4,1
+WPN=30,500
+WPN=42,50
+
+; Spawn locations within the deathmatch.
+; Spawn#=team,spawnx,spawny,spawnz,spawnrot
+SPAWN=0,2224.1482,-2304.0867,13.5469,317.2701
+SPAWN=0,2214.9817,-2295.0613,14.7647,315.1396
+SPAWN=0,2208.5669,-2287.8103,14.7647,315.8498
+SPAWN=0,2212.6606,-2284.5952,14.7647,247.6678
+SPAWN=0,2217.3396,-2288.7222,14.7647,316.2050
+SPAWN=1,2277.4500,-2257.0122,13.5469,66.9145
+SPAWN=1,2270.7383,-2258.3367,13.5547,134.0312
+SPAWN=1,2271.5801,-2259.3950,13.5547,134.0312
+SPAWN=1,2260.1902,-2247.9744,13.5469,136.1619
+SPAWN=1,2258.2896,-2245.5784,13.5469,200.0825
+SPAWN=1,2256.6960,-2243.8022,13.5469,210.3808

@@ -1,0 +1,42 @@
+
+Name=Medical chaos
+Author=lah
+MinLevel=1
+JoinCost=1000
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz
+WaitLocation=-2615.4563,582.0473,15.6250
+
+TeamCount=2
+RunTime=300
+WinXP=160000
+WinCash=140000
+KillXP=800
+
+; Boundaries, the furthest a player can get away from a point.
+; Bounds=centrex,centrey,centrez,radius
+Bounds=-2636.5640,609.2708,14.4531,150.0
+
+; Weapon spawns information.
+; W#=weaponid,ammo
+WPN=9,1
+WPN=24,50
+WPN=27,60
+WPN=31,300
+WPN=34,20
+WPN=16,10
+
+; Spawn locations within the deathmatch.
+; Spawn#=team,spawnx,spawny,spawnz,spawnrot
+SPAWN=0,-2552.7646,652.3678,14.4592,160.4263
+SPAWN=0,-2578.3062,652.5513,14.4531,161.6796
+SPAWN=0,-2573.1245,638.3485,14.4592,166.6931
+SPAWN=0,-2555.2168,638.0333,14.4531,145.0729
+SPAWN=0,-2555.7339,626.2779,14.4531,118.4393
+SPAWN=1,-2684.1121,637.8251,14.4531,255.9939
+SPAWN=1,-2676.6179,616.0435,14.4545,280.1208
+SPAWN=1,-2692.3538,604.0342,14.4531,288.5809
+SPAWN=1,-2706.0562,593.0020,14.4531,274.4573
+
+

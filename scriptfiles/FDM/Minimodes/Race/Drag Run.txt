@@ -1,0 +1,27 @@
+Name=Drag Run
+Author=Misa
+MinLevel=0
+JoinCost=1500
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz
+WaitLocation=1007.2815,1198.3682,10.4007
+
+RunTime=180
+WinBaseXP=55000
+WinBaseCash=100000
+
+; Vehicle Model to race with. Other models: 0=No vehicle, -1=Any vehicle
+Vehicle=411
+VehicleComponents=1010
+
+; Checkpoints
+; Type=0 is a normal checkpoint
+; Type=1 is an air checkpoint
+; Format: CP#=x,y,z,type,size
+CP=1007.3894,1850.9564,10.5557
+CP=997.5155,2393.2095,10.6761
+CP=907.1989,2384.3420,10.4331
+CP=920.6382,1853.3705,10.3989
+CP=1007.6870,1840.8885,10.3990
+CP=1008.3514,1197.5728,10.3989

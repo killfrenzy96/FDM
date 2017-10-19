@@ -1,0 +1,31 @@
+Name=Parkour
+Author=Dabombber/KillFrenzy
+MinLevel=8
+JoinCost=5000
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz
+WaitLocation=-2687.0417,885.3246,79.7225
+
+RunTime=360
+WinBaseXP=160000
+WinBaseCash=60000
+
+; Vehicle Model to race with. Other models: 0=No vehicle, -1=Any vehicle
+Vehicle=0
+
+; Checkpoints
+; Type=0 is a normal checkpoint
+; Type=1 is an air checkpoint
+; Format: CP#=x,y,z,type,size
+CP=-2680.4255,860.4869,80.3701,,4.0
+CP=-2671.2148,871.7112,84.1137,,4.0
+CP=-2654.3757,870.0355,83.9243,,4.0
+CP=-2653.4446,848.5424,73.0188,,4.0
+CP=-2659.0215,823.8063,58.5000,,4.0
+CP=-2642.4822,823.2794,57.6451,,4.0
+CP=-2637.7800,795.1125,49.9763,,4.0
+CP=-2626.6489,782.8728,55.5107,,4.0
+CP=-2631.4958,734.2262,39.4453,,4.0
+CP=-2730.5295,727.6371,51.9297,,4.0
+CP=-2734.1545,803.5646,62.6719,,4.0

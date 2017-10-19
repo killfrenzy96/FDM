@@ -1,0 +1,34 @@
+
+Name=Minigun Madness
+Author=From GTO
+MinLevel=0
+JoinCost=1000
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz
+WaitLocation=-2047.5900,253.1181,35.6444
+
+RunTime=240
+WinBaseXP=200000
+WinBaseCash=150000
+KillXP=500
+
+; Boundaries, the furthest a player can get away from a point.
+; Bounds=centrex,centrey,centrez,radius
+Bounds=-2069.0359,228.7548,39.0518,100.0
+
+; Weapon spawns information.
+; W#=weaponid,ammo
+WPN=38,5000
+
+; Spawn locations within the deathmatch.
+; Spawn#=spawnx,spawny,spawnz,spawnrot
+SPAWN=-2072.9880,306.5711,41.9922,180.0
+SPAWN=-2052.1082,304.1552,41.9922,180.0
+SPAWN=-2060.4114,253.1661,37.5827,180.0
+SPAWN=-2131.7061,174.9479,42.2500,270.0
+SPAWN=-2120.0977,225.4191,35.1206,0.0
+SPAWN=-2028.8907,156.1449,28.8359,0.0
+SPAWN=-2130.7400,185.3306,42.2500,270.0
+SPAWN=-2119.7041,221.4955,38.8127,270.0
+SPAWN=-2131.6499,262.3334,35.8006,270.0

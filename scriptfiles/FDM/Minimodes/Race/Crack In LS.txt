@@ -1,0 +1,38 @@
+Name=Crack In LS
+Author=KillFrenzy
+MinLevel=2
+JoinCost=1800
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz
+WaitLocation=985.7032,-946.6568,41.1014
+
+RunTime=500
+WinBaseXP=80000
+WinBaseCash=50000
+
+; Vehicle Model to race with. Other models: 0=No vehicle, -1=Any vehicle
+Vehicle=415
+
+; Checkpoints
+; Type=0 is a normal checkpoint
+; Type=1 is an air checkpoint
+; Format: CP#=x,y,z,type,size
+CP=847.8779,-946.1848,49.1534
+CP=859.9529,-893.6514,64.5053
+CP=842.9932,-870.3427,69.8481
+CP=920.5939,-838.5986,93.2890
+CP=996.1392,-793.0505,99.8370
+CP=923.1072,-786.9797,114.0435
+CP=843.9700,-784.8208,77.1955
+CP=633.6122,-900.3519,62.6024
+CP=508.2628,-1000.8389,89.2554
+CP=569.2831,-1036.5719,72.9484
+CP=382.0782,-1073.3164,73.7722
+CP=387.5515,-1164.0167,78.3800
+CP=619.8433,-1111.7822,46.4575
+CP=799.6282,-886.8326,57.9660
+CP=921.4653,-837.1973,93.4626
+CP=1157.9918,-764.1142,106.9244
+CP=1410.6162,-692.0161,86.8890
+CP=1496.8740,-693.1243,94.4771

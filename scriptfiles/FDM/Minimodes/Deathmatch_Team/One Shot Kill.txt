@@ -1,0 +1,41 @@
+
+Name=One Shot Kill
+Author=KillFrenzy
+MinLevel=5
+JoinCost=4500
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz
+WaitLocation=2107.1726,1176.1980,10.8203
+
+TeamCount=2
+RunTime=300
+WinXP=200000
+WinCash=200000
+KillXP=2000
+
+PlayerHealth=5.0
+
+; Boundaries, the furthest a player can get away from a point.
+; Bounds=centrex,centrey,centrez,radius
+Bounds=2243.7412,1083.1378,87.7203,135.0
+
+; Weapon spawns information.
+; W#=weaponid,ammo
+WPN=34,500
+
+; Spawn locations within the deathmatch.
+; Spawn#=team,spawnx,spawny,spawnz,spawnrot
+SPAWN=0,2191.5728,1012.0760,79.5547,309.7894
+SPAWN=0,2189.5798,1018.7804,79.5547,306.2382
+SPAWN=0,2184.7705,1031.1842,79.5547,303.3972
+SPAWN=0,2178.9136,1044.6393,79.5547,297.3603
+SPAWN=0,2173.3840,1059.5726,79.5547,295.9399
+SPAWN=0,2169.0234,1070.8326,79.5547,289.9029
+SPAWN=1,2314.7727,1141.8669,79.5546,125.2159
+SPAWN=1,2317.9702,1131.9576,79.5547,124.1506
+SPAWN=1,2321.7849,1121.2755,79.5547,118.4687
+SPAWN=1,2325.2358,1111.8197,79.5547,114.9176
+SPAWN=1,2328.2710,1102.3136,79.5547,114.9175
+SPAWN=1,2326.8555,1106.9998,79.5547,115.9829
+SPAWN=1,2319.6174,1129.9114,79.5547,123.0852

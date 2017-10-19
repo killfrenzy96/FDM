@@ -1,0 +1,42 @@
+Name=Slick's Chitty Chitty Bang Bang
+Author=Slick
+MinLevel=1
+JoinCost=1500
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz
+WaitLocation=-1906.0894,726.0577,45.2969
+
+RunTime=500
+WinMultiplierXP=1000
+WinMultiplierCash=2000
+Time=15:00
+Weather=12
+
+; Vehicle Model to start with. Other models: -1=Any vehicle
+Vehicle=556
+VehicleComponents=1010
+VehicleHealth=5000.0
+
+; Boundaries, the furthest a player can get away from a point.
+; Bounds=centrex,centrey,centrez,radius
+Bounds=-1951.7292,658.6458,160.7020,70.0
+
+; Spawn locations within the derby.
+; Spawn#=spawnx,spawny,spawnz,spawnrot
+SPAWN=-1931.0059,698.7968,145.7106,90.9918
+SPAWN=-1992.6442,668.5086,145.6948,180.5876
+SPAWN=-1967.3420,621.3879,145.6974,269.6121
+SPAWN=-1910.4954,640.9763,145.7049,0.6091
+SPAWN=-1910.4268,672.0314,145.7143,177.4117
+SPAWN=-1979.9990,698.4931,145.6948,270.0139
+SPAWN=-1992.6053,629.8823,145.6944,1.4741
+SPAWN=-1920.6489,621.5144,145.6953,90.1389
+SPAWN=-1924.7809,675.6682,145.6952,180.1987
+SPAWN=-1930.2437,635.6893,145.6953,90.6739
+SPAWN=-1978.4846,641.2042,145.6977,359.5591
+SPAWN=-1972.5465,681.5011,145.6953,268.7414
+SPAWN=-1932.5710,681.3655,145.7039,88.9555
+SPAWN=-1924.8298,643.4917,145.6953,0.6532
+SPAWN=-1970.9551,635.6779,145.6953,269.4525
+SPAWN=-1978.6044,673.6264,145.6953,179.4568

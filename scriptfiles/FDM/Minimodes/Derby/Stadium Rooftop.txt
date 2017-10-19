@@ -1,0 +1,40 @@
+Name=Stadium Rooftop
+Author=KillFrenzy
+MinLevel=0
+JoinCost=1500
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz
+WaitLocation=2857.6860,-1891.8119,10.9222
+
+RunTime=500
+WinMultiplierXP=1000
+WinMultiplierCash=2000
+
+; Vehicle Model to start with. Other models: -1=Any vehicle
+Vehicle=556
+VehicleComponents=1010
+VehicleHealth=5000.0
+
+; Boundaries, the furthest a player can get away from a point.
+; Bounds=centrex,centrey,centrez,radius
+Bounds=2737.7461,-1760.2729,44.1490,70.0
+
+; Spawn locations within the derby.
+; Spawn#=spawnx,spawny,spawnz,spawnrot
+SPAWN=2701.2820,-1797.0609,40.7030,316.3049
+SPAWN=2689.4297,-1780.2343,40.5978,293.2202
+SPAWN=2686.2637,-1760.2632,40.7848,269.5853
+SPAWN=2691.1062,-1741.8058,41.0507,248.2684
+SPAWN=2703.0632,-1726.3384,41.2988,226.3586
+SPAWN=2718.7207,-1715.9893,41.3517,203.9514
+SPAWN=2737.0435,-1710.8218,41.1608,181.8893
+SPAWN=2755.7163,-1716.0066,41.4099,158.1320
+SPAWN=2771.7224,-1725.2096,41.2524,137.7431
+SPAWN=2781.9067,-1741.1174,41.3561,111.8103
+SPAWN=2787.2043,-1760.3505,41.1586,91.0084
+SPAWN=2783.8276,-1779.3198,41.0844,66.9261
+SPAWN=2773.8118,-1795.4420,41.0174,45.5165
+SPAWN=2756.7607,-1805.6697,41.1956,23.1845
+SPAWN=2738.3855,-1810.1870,41.0818,359.1363
+SPAWN=2719.1892,-1806.3038,41.1270,339.7124

@@ -1,0 +1,39 @@
+
+Name=Rockets Galore
+Author=KillFrenzy
+MinLevel=0
+JoinCost=1000
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz
+WaitLocation=-1904.2457,-858.8244,32.0234
+
+RunTime=240
+WinBaseXP=200000
+WinBaseCash=150000
+KillXP=500
+
+; Boundaries, the furthest a player can get away from a point.
+; Bounds=centrex,centrey,centrez,radius
+Bounds=-2020.6471,-859.9643,32.1719,300.0
+
+; Weapon spawns information.
+; W#=weaponid,ammo
+WPN=35,100
+
+; Spawn locations within the deathmatch.
+; Spawn#=spawnx,spawny,spawnz,spawnrot
+SPAWN=-2082.7056,-756.2899,66.8750,267.6487
+SPAWN=-2082.5454,-809.5236,66.8750,265.0198
+SPAWN=-2082.2786,-859.7918,66.8750,265.6192
+SPAWN=-2082.1208,-911.6340,66.8750,268.9578
+SPAWN=-2083.2849,-962.7332,66.8750,267.0634
+SPAWN=-1954.7083,-963.9497,41.8281,84.1002
+SPAWN=-1954.7609,-899.6308,41.8281,89.7821
+SPAWN=-1954.6377,-834.7488,41.8281,89.0719
+SPAWN=-1954.6135,-763.5228,41.8281,91.2026
+SPAWN=-1955.2844,-732.8172,35.8909,181.6707
+SPAWN=-1954.2244,-807.0037,35.8909,90.7614
+SPAWN=-1954.4823,-909.0607,35.8909,90.0511
+SPAWN=-1954.2864,-984.8828,35.8909,1.6276
+SPAWN=-1954.7062,-858.8042,35.8909,88.9858

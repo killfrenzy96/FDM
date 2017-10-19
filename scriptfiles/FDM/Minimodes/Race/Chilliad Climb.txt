@@ -1,0 +1,37 @@
+Name=Chilliad Climb
+Author=KillFrenzy
+MinLevel=6
+JoinCost=5000
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz
+WaitLocation=-2384.5452,-2200.5579,32.8604
+
+RunTime=600
+WinBaseXP=100000
+WinBaseCash=50000
+
+; Vehicle Model to race with. Other models: 0=No vehicle, -1=Any vehicle
+Vehicle=522
+
+; Checkpoints
+; Type=0 is a normal checkpoint
+; Type=1 is an air checkpoint
+; Format: CP#=x,y,z,type,size
+CP=-2328.1975,-2172.3479,36.5989
+CP=-2496.6824,-2130.9729,53.0304
+CP=-2679.2319,-2074.7017,76.7600
+CP=-2724.0337,-1918.0033,106.3204
+CP=-2817.6721,-1823.8719,133.0379
+CP=-2732.9082,-1323.6954,148.7222
+CP=-2559.7097,-1139.5430,173.4476
+CP=-2540.2734,-1151.9396,180.3956
+CP=-2611.4446,-1284.5771,220.2804
+CP=-2674.4497,-1397.5154,254.2907
+CP=-2707.3770,-1481.0935,289.9897
+CP=-2651.1707,-1573.2603,309.5503
+CP=-2591.3555,-1622.1116,343.6971
+CP=-2554.6108,-1793.9104,369.4891
+CP=-2486.1306,-1785.3772,403.6413
+CP=-2375.2820,-1809.2992,431.2170
+CP=-2310.9275,-1651.8590,483.2489

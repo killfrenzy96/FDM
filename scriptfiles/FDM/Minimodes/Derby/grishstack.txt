@@ -1,0 +1,35 @@
+
+Name=Grish stack
+Author=Grish
+MinLevel=0
+JoinCost=3000
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz
+WaitLocation=2738.441650,-1759.617798,44.227688
+
+RunTime=120
+WinMultiplierXP=2000
+WinMultiplierCash=2000
+
+; Vehicle Model to start with. Other models: -1=Any vehicle
+Vehicle=432
+
+; Boundaries, the furthest a player can get away from a point.
+; Bounds=centrex,centrey,centrez,radius
+Bounds=2738.4082,-1759.5139,43.1270,1000.0
+
+
+; Spawn Points
+; If there are no spawn points, races will just be given their vehicle at the checkpoint
+; Format: SPAWN=x,y,z,rotz
+SPAWN=2738.441650,-1759.617798,44.227688,360.0
+SPAWN=2738.451660,-1759.663330,50.278812,270.0
+SPAWN=2738.738037,-1759.837769,56.279354,174.0
+SPAWN=2738.356445,-1759.710938,62.230915,90.0
+SPAWN=2738.469971,-1759.678833,68.302494,360.0
+SPAWN=2738.419922,-1759.688110,74.254425,270.0
+SPAWN=2738.528564,-1759.692993,80.251434,182.0
+SPAWN=2738.459717,-1759.540527,86.201035,90.0
+SPAWN=2738.448975,-1759.553345,92.201439,360.0
+SPAWN=2738.426514,-1759.546265,98.126755,270.0

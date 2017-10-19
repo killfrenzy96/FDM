@@ -1,0 +1,37 @@
+Name=Country Ride
+Author=KillFrenzy
+MinLevel=3
+JoinCost=1500
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz
+WaitLocation=-321.6148,-1910.9580,12.0557
+
+RunTime=400
+WinBaseXP=78000
+WinBaseCash=45000
+
+; Vehicle Model to race with. Other models: 0=No vehicle, -1=Any vehicle
+Vehicle=495
+
+; Checkpoints
+; Type=0 is a normal checkpoint
+; Type=1 is an air checkpoint
+; Format: CP#=x,y,z,type,size
+CP=-437.3742,-1945.4290,10.6994
+CP=-519.2421,-2026.8506,50.3690
+CP=-657.7796,-2008.8165,25.0488
+CP=-699.6755,-1871.8527,8.4454
+CP=-824.6419,-1941.6992,9.0706
+CP=-794.0660,-2106.1965,24.2953
+CP=-839.9800,-2181.1692,24.1729
+CP=-944.7594,-2190.7705,36.7224
+CP=-962.3754,-2355.4160,61.7902
+CP=-1212.1382,-2341.0396,16.8321
+CP=-1318.8220,-2199.2808,22.1716
+CP=-1493.2878,-2155.6426,2.5278
+CP=-1712.0911,-2170.2046,47.6473
+CP=-1827.5334,-2218.6333,76.5497
+CP=-1873.9619,-2302.1111,48.8610
+CP=-1924.4305,-2386.8777,29.4486
+CP=-1967.4086,-2435.5073,30.1962

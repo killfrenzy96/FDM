@@ -1,0 +1,27 @@
+Name=Roof Jumping
+Author=KillFrenzy
+MinLevel=1
+JoinCost=500
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz
+WaitLocation=1973.8330,-1622.1611,15.9688
+
+RunTime=120
+WinBaseXP=50000
+WinBaseCash=20000
+
+; Vehicle Model to race with. Other models: 0=No vehicle, -1=Any vehicle
+Vehicle=0
+
+; Checkpoints
+; Type=0 is a normal checkpoint
+; Type=1 is an air checkpoint
+; Format: CP#=x,y,z,type,size
+CP=1957.1754,-1626.2477,18.2521,,1.0
+CP=1964.9869,-1626.5233,21.3318,,1.0
+CP=1969.4730,-1613.9907,26.5781,,1.0
+CP=1961.5363,-1585.8323,26.5781,,1.0
+CP=1955.0398,-1557.4348,26.5781,,1.0
+CP=1915.7653,-1559.4348,29.0414,,1.0
+CP=1850.7990,-1593.2797,31.0500,,1.0

@@ -1,0 +1,55 @@
+
+Name=It's War
+Author=KillFrenzy
+MinLevel=10
+JoinCost=8000
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz
+WaitLocation=-840.7879,1604.7194,27.0505
+
+RunTime=180
+WinBaseXP=170000
+WinBaseCash=120000
+KillXP=1200
+
+; Boundaries, the furthest a player can get away from a point.
+; Bounds=centrex,centrey,centrez,radius
+; Bounds=-859.4653,1759.2252,95.9942,45.0
+
+BoundPolyPoint=-717.6448,1540.3828
+BoundPolyPoint=-720.5063,1516.3829
+BoundPolyPoint=-720.0715,1501.2448
+BoundPolyPoint=-700.4907,1496.2982
+BoundPolyPoint=-682.9411,1487.1696
+BoundPolyPoint=-665.4328,1493.7880
+BoundPolyPoint=-647.8445,1507.3217
+BoundPolyPoint=-647.6580,1524.7803
+BoundPolyPoint=-647.7080,1542.5350
+BoundPolyPoint=-661.3992,1563.8956
+BoundPolyPoint=-682.8282,1577.8168
+BoundPolyPoint=-698.1075,1577.5038
+BoundPolyPoint=-707.6754,1565.9266
+BoundPolyPoint=-719.5228,1566.1584
+
+; Weapon spawns information.
+; W#=weaponid,ammo
+WPN=26,250
+WPN=32,750
+
+; Spawn locations within the deathmatch.
+; Spawn#=spawnx,spawny,spawnz,spawnrot
+SPAWN=-716.6914,1563.2314,77.9407,223.8526
+SPAWN=-714.6846,1541.1616,78.4348,271.4797
+SPAWN=-717.9701,1515.8419,77.4189,290.2799
+SPAWN=-714.6874,1505.3235,74.6445,312.2134
+SPAWN=-698.7354,1500.0492,78.3246,335.4003
+SPAWN=-683.0620,1491.3569,77.1750,357.6472
+SPAWN=-667.8238,1497.0850,73.9035,34.9342
+SPAWN=-653.1604,1510.1843,72.6752,42.1410
+SPAWN=-650.8529,1526.4512,82.7111,71.5946
+SPAWN=-650.8033,1541.5071,83.1127,107.9416
+SPAWN=-664.1729,1561.6202,82.7445,130.1884
+SPAWN=-684.0321,1571.9503,79.6085,167.1621
+SPAWN=-695.9964,1573.3857,79.9582,200.3758
+SPAWN=-705.9740,1564.4755,82.2063,242.3629

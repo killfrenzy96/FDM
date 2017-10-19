@@ -1,0 +1,63 @@
+
+Name=Vortex speed
+Author=Mouldy
+Description=She be fast
+MinLevel=5
+JoinCost=3000
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz
+WaitLocation=2861.911377,-1914.333862,10.594359
+
+RunTime=900
+WinBaseXP=60000
+WinBaseCash=70000
+Weather=0
+
+; Vehicle Model to race with. Other models: 0=No vehicle, -1=Any vehicle
+Vehicle=539
+
+; Checkpoints
+; Type=0 is a normal checkpoint
+; Type=1 is an air checkpoint
+; The params type and size are optional
+; Format: CP=x,y,z,type,size,vehicletype,vehiclehp,gravity
+CP=2867.227295,-1961.401855,10.109375
+CP=2932.875488,-1963.952271,0.204621
+CP=2997.761719,-2026.748657,0.404497
+CP=2861.905762,-2245.278076,0.071062
+CP=2591.826172,-2234.999268,-0.126683
+CP=2554.207275,-1853.997925,2.859375,,,,,0.1
+CP=2210.101563,-1851.118042,0.450394,,,,,1000.0,0.008
+CP=1976.500122,-1864.763428,4.399348,,,,,0.1
+CP=2277.578369,-2171.041992,5.062500,,,,1000.0,0.008
+CP=2444.249512,-2344.170654,0.012132
+CP=2369.403076,-2438.206787,0.008793
+CP=2316.047852,-2702.263916,-0.071217
+CP=2378.547852,-2739.697266,-0.006825
+CP=2687.915771,-2641.978027,0.294563
+CP=2816.176514,-2568.683594,-0.082087
+CP=2817.379883,-2324.814453,-0.107103
+CP=2809.061523,-2202.492920,14.465893
+
+; Spawn Points
+; If there are no spawn points, races will just be given their vehicle at the checkpoint
+; Format: SPAWN=x,y,z,rotz
+SPAWN=2861.911377,-1914.333862,10.594359,182.0
+SPAWN=2858.897705,-1914.267212,10.581774,182.0
+SPAWN=2855.855713,-1914.324219,10.579517,182.0
+SPAWN=2851.867920,-1914.071411,10.749203,182.0
+SPAWN=2865.295654,-1914.291382,10.759375,182.0
+SPAWN=2861.606201,-1909.702881,10.583757,182.0
+SPAWN=2854.345459,-1909.803589,10.580631,182.0
+SPAWN=2857.895996,-1909.829834,10.581041,182.0
+
+; Objects
+; The last param (viewdistance) is optional
+; Format: OBJECT=modelid,x,y,z,rotx,roty,rotz,viewdistance
+
+; Pickups
+; Format:
+;	PICKUPREPAIR=x,y,z
+;	PICKUPNITRO=x,y,z
+;	PICKUPVEHICLE=vehicletype,x,y,z

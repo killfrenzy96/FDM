@@ -1,0 +1,39 @@
+Name=Area 51
+Author=KillFrenzy
+MinLevel=12
+JoinCost=7500
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz
+WaitLocation=682.3120,1836.2202,4.9432
+
+RunTime=500
+WinMultiplierXP=1500
+WinMultiplierCash=2000
+
+; Vehicle Model to start with. Other models: -1=Any vehicle
+Vehicle=425
+VehicleHealth=10000.0
+
+; Boundaries, the furthest a player can get away from a point.
+; Bounds=centrex,centrey,centrez,radius
+Bounds=162.5743,1942.4933,18.3877,600.0
+
+; Spawn locations within the derby.
+; Spawn#=spawnx,spawny,spawnz,spawnrot
+SPAWN=187.7969,1688.2361,18.2315,7.9244
+SPAWN=287.2610,1704.3291,18.2107,24.1227
+SPAWN=53.1876,1707.0564,18.1102,327.7178
+SPAWN=-11.5428,1733.3972,17.6273,316.7315
+SPAWN=195.9282,2070.5449,23.2390,200.5298
+SPAWN=327.1750,2050.8545,18.2379,153.5032
+SPAWN=376.1990,2005.0547,18.5268,123.9667
+SPAWN=375.3369,1902.6086,18.2098,88.2191
+SPAWN=311.0621,1801.7979,18.2002,10.0886
+SPAWN=262.1044,1836.6155,18.9199,6.6093
+SPAWN=125.4873,1845.0105,18.7570,1.8417
+SPAWN=141.1939,1925.9662,19.7365,176.6524
+SPAWN=212.8045,1909.2308,18.1934,173.9088
+SPAWN=279.5859,1931.0969,18.2232,272.9518
+SPAWN=93.6711,2040.1700,18.5659,223.6187
+SPAWN=15.2647,1942.2821,18.2062,260.2952

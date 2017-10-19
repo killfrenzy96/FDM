@@ -1,0 +1,23 @@
+Name=Mouldy's DAKAR Rally
+Author=Mouldy
+MinLevel=40
+JoinCost=6500
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz
+WaitLocation=1486.0573,1645.6383,11.2736
+
+RunTime=700
+WinBaseXP=600000
+WinBaseCash=600000
+
+; Vehicle Model to race with. Other models: 0=No vehicle, -1=Any vehicle
+Vehicle=495
+
+; Checkpoints
+; Type=0 is a normal checkpoint
+; Type=1 is an air checkpoint
+; Format: CP#=x,y,z,type,size
+CP=1522.2678,-2596.1472,14.0034
+CP=-2328.2910,-1621.6603,484.1654
+CP=-2090.9014,2312.4553,25.9141

@@ -1,0 +1,35 @@
+Name=Country Legends
+Author=Legendary
+MinLevel=7
+JoinCost=4500
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz
+WaitLocation=-1030.1429,-2147.1646,33.8837
+
+RunTime=240
+WinBaseXP=70000
+WinBaseCash=85000
+
+; Vehicle Model to race with. Other models: 0=No vehicle, -1=Any vehicle
+Vehicle=495
+
+; Checkpoints
+; Type=0 is a normal checkpoint
+; Type=1 is an air checkpoint
+; Format: CP#=x,y,z,type,size
+CP=-813.7845,-2174.9941,21.5589
+CP=-801.6121,-2080.1655,24.4599
+CP=-737.9843,-1853.0245,13.4291
+CP=-589.2244,-1834.3817,29.6165
+CP=-409.8651,-1766.5555,4.8510
+CP=-424.5032,-1702.5693,11.6541
+CP=-515.1217,-1569.5872,5.9026
+CP=-566.6524,-1384.1697,15.9461
+CP=-629.7725,-1193.5332,26.4419
+CP=-649.5369,-1131.8464,45.8658
+CP=-718.5240,-1009.7244,74.2358
+CP=-835.3578,-985.8767,95.3907
+CP=-726.0193,-868.1097,112.6359
+CP=-554.2285,-658.9483,21.5918
+CP=-491.7441,-555.2738,25.2954

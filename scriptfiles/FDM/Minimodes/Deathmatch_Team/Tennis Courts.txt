@@ -1,0 +1,44 @@
+
+Name=Tennis Courts
+Author=KillFrenzy
+MinLevel=0
+JoinCost=1000
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz
+WaitLocation=-2706.9570,-257.1643,7.0078
+
+TeamCount=2
+RunTime=300
+WinXP=140000
+WinCash=100000
+KillXP=800
+
+; Boundaries, the furthest a player can get away from a point.
+; Bounds=centrex,centrey,centrez,radius
+Bounds=-2751.9407,-251.9941,7.1875,65.0
+
+; Weapon spawns information.
+; W#=weaponid,ammo
+WPN=24,200
+WPN=29,450
+WPN=41,250
+
+; Spawn locations within the deathmatch.
+; Spawn#=team,spawnx,spawny,spawnz,spawnrot
+SPAWN=0,-2780.5605,-268.7655,7.1875,267.4540
+SPAWN=0,-2780.4778,-262.4799,7.1875,269.2296
+SPAWN=0,-2780.5386,-256.2813,7.1875,267.0989
+SPAWN=0,-2780.5430,-247.4573,7.1875,269.5846
+SPAWN=0,-2780.4661,-241.1905,7.1875,268.5193
+SPAWN=0,-2780.6060,-235.0193,7.1875,269.9396
+SPAWN=0,-2785.3469,-241.1633,7.1875,270.6499
+SPAWN=0,-2785.3464,-262.5223,7.1875,269.2296
+SPAWN=1,-2723.5259,-268.8402,7.1875,89.2727
+SPAWN=1,-2723.6450,-262.5917,7.1875,89.6278
+SPAWN=1,-2723.5630,-256.3716,7.1875,88.8314
+SPAWN=1,-2723.6570,-247.8138,7.1875,92.0274
+SPAWN=1,-2723.6848,-241.5814,7.1875,90.9621
+SPAWN=1,-2723.6760,-235.3098,7.1952,87.7661
+SPAWN=1,-2718.9146,-241.5055,7.1875,89.5416
+SPAWN=1,-2718.8848,-262.5735,7.1875,90.2519

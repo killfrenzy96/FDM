@@ -1,0 +1,29 @@
+; Converted Fri, 18 Dec 09 17:22:05 +1100
+
+; The location of the waiting checkpoint. WaitLocation=x,y,z,interior
+WaitLocation=2536.669922,-1507.448608,23.491961
+MinLevel=CHANGE ME
+JoinCost=CHANGE ME
+WinBaseXP=CHANGE ME
+WinBaseCash=CHANGE ME
+
+Name=testing
+Author=
+Description=
+RunTime=1000
+Weather=
+Time=
+
+; Vehicle Model to race with. Other models: 0=No vehicle, -1=Any vehicle
+Vehicle=522
+
+; If there are no spawn points, races will just be given their vehicle at the checkpoint
+; vehicletype param is optional.
+; Format: SPAWN=x,y,z,rotz,vehicletype
+SPAWN=2536.669922,-1507.448608,23.491961,360
+
+; Type = 0 is a normal checkpoint. Type = 1 is an air checkpoint.
+; The params type,size,vehicletype,vehiclehp and gravity are optional.
+; Format: CP=x,y,z,type,size,vehicletype,vehiclehp,gravity
+CP=2536.841064,-1492.081543,23.176771,0,8
+

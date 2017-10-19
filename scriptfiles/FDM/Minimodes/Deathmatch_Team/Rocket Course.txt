@@ -1,0 +1,38 @@
+
+Name=Rocket Course
+Author=KillFrenzy
+MinLevel=0
+JoinCost=2500
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz
+WaitLocation=-2652.2090,-289.3219,7.5435
+
+TeamCount=2
+RunTime=300
+WinXP=135000
+WinCash=100000
+KillXP=1000
+
+; Boundaries, the furthest a player can get away from a point.
+; Bounds=centrex,centrey,centrez,radius
+Bounds=-2435.2561,-276.6062,35.6167,300.0
+
+; Weapon spawns information.
+; W#=weaponid,ammo
+WPN=35,100
+
+; Spawn locations within the deathmatch.
+; Spawn#=team,spawnx,spawny,spawnz,spawnrot
+SPAWN=0,-2616.1113,-244.5532,18.9656,256.4016
+SPAWN=0,-2613.6343,-303.1537,22.8621,268.8306
+SPAWN=0,-2618.9583,-330.1752,16.5772,286.5863
+SPAWN=0,-2621.2212,-276.9605,9.3386,268.2065
+SPAWN=0,-2557.3938,-309.2333,25.9981,314.3715
+SPAWN=0,-2557.9207,-248.1468,21.4895,183.6893
+SPAWN=1,-2303.2524,-300.7097,56.5120,84.2955
+SPAWN=1,-2313.1626,-339.5786,65.9439,57.3069
+SPAWN=1,-2341.5972,-364.0898,68.5567,42.1231
+SPAWN=1,-2297.4377,-257.8380,43.3540,90.0636
+SPAWN=1,-2331.7080,-284.1104,48.1996,64.4953
+SPAWN=1,-2331.8152,-345.4274,68.4227,62.3646

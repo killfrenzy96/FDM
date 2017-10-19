@@ -1,0 +1,41 @@
+Name=Drifting with Carnage
+Author=Carnage
+MinLevel=7
+JoinCost=2000
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz
+WaitLocation=-303.6796,1523.1559,75.0864
+
+RunTime=320
+WinBaseXP=150000
+WinBaseCash=100000
+
+; Vehicle Model to race with. Other models: 0=No vehicle, -1=Any vehicle
+Vehicle=562
+VehicleComponents=1034,1171,1148,1035,1146,1039,1081
+
+; Checkpoints
+; Type=0 is a normal checkpoint
+; Type=1 is an air checkpoint
+; Format: CP#=x,y,z,type,size
+CP=-305.1390,1395.6584,72.0393
+CP=-368.4093,1465.0868,62.7115
+CP=-326.9067,1315.2395,52.3909
+CP=-425.9510,1445.9014,34.0840
+CP=-323.5327,1256.5110,23.1451
+CP=55.3951,1248.4663,15.8729
+CP=186.5716,1136.8755,14.4753
+CP=225.8242,971.2164,27.9215
+CP=-119.6197,823.1116,20.1499
+CP=-300.5106,667.4637,17.7664
+CP=-142.1557,637.2194,1.9216
+CP=-203.1220,238.6927,11.7918
+CP=-480.7571,286.0074,1.8052
+CP=-759.3094,193.9617,2.1689
+CP=-684.5224,33.6908,33.1729
+CP=-882.2269,-48.1657,35.8117
+CP=-671.8391,-14.9491,70.8834
+CP=-923.2435,-157.0281,51.6158
+CP=-1046.0790,-455.1802,35.2718
+CP=-1024.0448,-638.5076,31.5700

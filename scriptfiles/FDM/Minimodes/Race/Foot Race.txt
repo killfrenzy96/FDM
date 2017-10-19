@@ -1,0 +1,34 @@
+Name=Foot Race
+MinLevel=2
+JoinCost=750
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz
+WaitLocation=-2220.7393,-2252.5471,30.8922
+
+RunTime=120
+WinBaseXP=55000
+WinBaseCash=45000
+
+; Vehicle Model to race with. Other models: 0=No vehicle, -1=Any vehicle
+Vehicle=0
+
+; Checkpoints
+; Type=0 is a normal checkpoint
+; Type=1 is an air checkpoint
+; Format: CP#=x,y,z,type,size
+CP=-2220.9924,-2281.0764,34.9595,,1.5
+CP=-2214.9041,-2294.7837,35.4184,,1.5
+CP=-2205.7927,-2307.0313,34.6153,,1.5
+CP=-2213.3477,-2328.1218,30.6250,,1.5
+CP=-2190.7876,-2366.7957,30.4688,,1.5
+CP=-2187.5513,-2402.7605,30.6250,,1.5
+CP=-2192.2527,-2416.0408,32.6173,,1.5
+CP=-2193.9978,-2428.3599,35.5162,,1.5
+CP=-2183.0137,-2422.1694,36.1588,,1.5
+CP=-2178.8723,-2417.2834,38.0891,,1.5
+CP=-2170.8179,-2416.8625,36.9013,,1.5
+CP=-2148.1013,-2421.2898,30.4688,,1.5
+CP=-2120.7959,-2423.2151,30.6250,,1.5
+CP=-2102.4934,-2425.8706,34.9219,,1.5
+CP=-2064.7590,-2431.2839,30.6250,,1.5

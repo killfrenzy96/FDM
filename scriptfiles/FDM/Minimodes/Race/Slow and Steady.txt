@@ -1,0 +1,35 @@
+Name=Slow and Steady
+Author=Carnage
+MinLevel=4
+JoinCost=1500
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz
+WaitLocation=-2684.1086,1595.3363,2.5104
+
+RunTime=120
+WinBaseXP=85000
+WinBaseCash=60000
+
+; Vehicle Model to race with. Other models: 0=No vehicle, -1=Any vehicle
+Vehicle=571
+VehicleComponents=1010
+
+; Checkpoints
+; Type=0 is a normal checkpoint
+; Type=1 is an air checkpoint
+; Format: CP#=x,y,z,type,size
+CP=-2663.9839,1605.1016,2.4947,,2.0
+CP=-2656.6858,1586.9244,2.5027,,2.0
+CP=-2698.9888,1605.0403,2.5024,,2.0
+CP=-2705.0173,1586.0054,2.5025,,2.0
+CP=-2663.6021,1605.1412,2.5027,,2.0
+CP=-2657.5054,1586.0094,2.5026,,2.0
+CP=-2700.8240,1604.8716,2.5021,,2.0
+CP=-2704.8076,1585.8188,2.5025,,2.0
+CP=-2662.3101,1604.6957,2.5024,,2.0
+CP=-2658.5034,1585.3618,2.5025,,2.0
+CP=-2699.5635,1604.7522,2.5028,,2.0
+CP=-2704.6201,1585.7430,2.5026,,2.0
+CP=-2681.9875,1594.8124,2.5064,,2.0
+CP=-2681.7407,1611.5221,-0.7461,,2.0

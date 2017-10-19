@@ -1,0 +1,28 @@
+Name=Downhill Sprint
+Author=Carnage
+MinLevel=5
+JoinCost=750
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz
+WaitLocation=-499.9772,1670.4933,82.4824
+
+RunTime=180
+WinBaseXP=35000
+WinBaseCash=40000
+
+; Vehicle Model to race with. Other models: 0=No vehicle, -1=Any vehicle
+Vehicle=0
+
+; Checkpoints
+; Type=0 is a normal checkpoint
+; Type=1 is an air checkpoint
+; Format: CP#=x,y,z,type,size
+CP=-494.3808,1597.4971,60.0943
+CP=-482.6635,1572.7874,36.9831,0,2.0
+CP=-512.7501,1609.1132,30.0031,0,2.0
+CP=-499.9239,1584.8107,23.9264,0,2.0
+CP=-489.0986,1566.9893,16.6962,0,2.0
+CP=-510.5890,1593.8341,12.7483,0,2.0
+CP=-519.4031,1633.5605,3.8000,0,2.0
+CP=-506.3048,1587.5928,1.1174,0,2.0

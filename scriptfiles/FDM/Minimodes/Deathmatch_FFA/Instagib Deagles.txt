@@ -1,0 +1,42 @@
+
+Name='Instagib' Deagles
+Author=KillFrenzy
+MinLevel=5
+JoinCost=5000
+
+; The location of the waiting checkpoint.
+; WaitLocation=waitx,waity,waitz
+WaitLocation=-2185.2822,608.8748,35.1641
+
+RunTime=180
+WinBaseXP=160000
+WinBaseCash=150000
+KillXP=1000
+
+PlayerHealth=45.0
+
+; Boundaries, the furthest a player can get away from a point.
+; Bounds=centrex,centrey,centrez,radius
+Bounds=-2193.7905,691.6328,73.8359,75.0
+
+; Weapon spawns information.
+; W#=weaponid,ammo
+WPN=24,250
+
+; Spawn locations within the deathmatch.
+; Spawn#=spawnx,spawny,spawnz,spawnrot
+SPAWN=-2184.7268,715.8817,53.8937,179.7107
+SPAWN=-2179.2495,715.7338,53.8909,181.1311
+SPAWN=-2172.8826,680.0060,55.1625,89.8667
+SPAWN=-2174.2500,632.3169,49.4375,359.6676
+SPAWN=-2183.2739,636.6293,51.7836,349.3693
+SPAWN=-2189.2461,636.9548,51.7549,18.1335
+SPAWN=-2194.8342,636.6036,51.7580,336.2300
+SPAWN=-2198.5859,636.9215,51.7698,13.9169
+SPAWN=-2221.1184,631.6417,54.9401,0.1537
+SPAWN=-2213.7610,631.5315,58.0398,0.4228
+SPAWN=-2203.0310,646.6503,54.7542,228.7614
+SPAWN=-2181.3435,646.5927,54.7162,126.4884
+SPAWN=-2207.0918,664.3846,49.4375,179.7556
+SPAWN=-2234.0981,642.9921,49.4467,269.5996
+SPAWN=-2207.4780,625.7867,49.4381,358.2921
