@@ -1,8 +1,3 @@
-Please see here for latest updates, source code, and updates for the Streamer Plugin (streamer.dll, streamer.so)
-https://github.com/samp-incognito/samp-streamer-plugin/releases/
-
-Streamer License:
-
 
                                  Apache License
                            Version 2.0, January 2004
@@ -192,7 +187,7 @@ Streamer License:
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright [2017] [Evan An Tran (KillFrenzy)]
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -205,4 +200,3 @@ Streamer License:
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
-   
